@@ -44,4 +44,4 @@ I also appreciate the fact that you can capture video while performing actions o
 </section>
 	</body>
 </html>
-<a href=""> Click here to go to the second page/a>
+<a href="https://github.com/td1b11/Page-2.git"> Click here to go to the second page/a>
