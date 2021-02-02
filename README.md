@@ -16,6 +16,7 @@
     
     <section>
 <h1>About me</h1>
+
 <p>I'm a former Physcial Education and Health Teacher who switched careers to work in retail. 
 I'm getting my master's degree to hopefully work in my company's corporate office some day.
 I enjoy the following activities in no particular order:</p>
@@ -43,4 +44,4 @@ I also appreciate the fact that you can capture video while performing actions o
 </section>
 	</body>
 </html>
-
+<a href=""> Click here to go to the second page/a>
