@@ -16,16 +16,17 @@
     
     <section>
 <h1>About me</h1>
-
+<ul>
 <p>I'm a former Physcial Education and Health Teacher who switched careers to work in retail. 
 I'm getting my master's degree to hopefully work in my company's corporate office some day.
 I enjoy the following activities in no particular order:</p>
-<b><ul>Traveling</b>- We're hoping to go to Mexico next for my partners 40th birthday!</ul>   
-<b><ul>Sports</b>- I used to play softball in college as well as MMA fighting.</ul>
-<b><ul>Red wine</b>- I love going to wineries and hope I'll get to the Willamette Valley someday.</ul>    
-<b><ul>Hiking</b>- There's a place in Charlotte called Crowder Mountain which is a great hike.</ul>
-<b><ul>My animals</b>- I have three dogs and two cats. I enjoy adopting animals and giving them a loving home.</ul>  
-<b><ul>Working out</b>- I own a Peloton and this was the best decision ever!</ul>
+<li><strong>Traveling</strong>- We're hoping to go to Mexico next for my partners 40th birthday!</li>   
+<li><strong>Sports</strong>- I used to play softball in college as well as MMA fighting.</li>
+<li><strong>Red wine</strong>- I love going to wineries and hope I'll get to the Willamette Valley someday.</li>    
+<li><strong>Hiking</strong>- There's a place in Charlotte called Crowder Mountain which is a great hike.</li>
+<li><strong>My animals</strong>- I have three dogs and two cats. I enjoy adopting animals and giving them a loving home.</li>  
+<li><strong>Working out</strong>- I own a Peloton and this was the best decision ever!</li>
+</ul>
 </section>
     <hr>
 
