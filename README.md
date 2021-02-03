@@ -17,7 +17,7 @@
     <section>
 <h1>About me</h1>
 <ul>
-<p>I'm a former Physcial Education and Health Teacher who switched careers to work in retail. 
+<p>I'm a former Physical Education and Health Teacher who switched careers to work in retail. 
 I'm getting my master's degree to hopefully work in my company's corporate office some day.
 I enjoy the following activities in no particular order:</p>
 <li><strong>Traveling</strong>- We're hoping to go to Mexico next for my partners 40th birthday!</li>   
