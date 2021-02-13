@@ -1,0 +1,45 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:wght@300&display=swap');
+</style>
+html {
+    color: black;
+    font-size: 12px;
+}
+
+p.purple { 
+	color: purple;
+    font-size: 14px;
+    font-style: helvetica;
+}
+p.orange { 
+	color: orange;
+    font-size: 14px;
+    font-style: helvetica;
+}
+p.yellow { 
+	color: yellow;
+    font-size: 14px;
+    font-style: helvetica;
+}
+h1{ 
+	color: blue;
+    font-size: 16px;
+}
+h2{
+    color: blueviolet;
+    font-size: 16px;
+}
+ul {list-style-type: circle;
+    list-style-position: inside;
+}
+#large-header{
+    font-size: 22px;
+    font-style: oblique;
+}
+a{
+    text-decoration: underline;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
