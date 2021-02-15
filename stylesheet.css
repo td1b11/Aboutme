@@ -3,31 +3,31 @@
 </style>
 html {
     color: black;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 p.purple { 
-	color: purple;
+	color: rgb(12, 9, 4);
     font-size: 14px;
     font-style: helvetica;
 }
 p.orange { 
-	color: orange;
+	color: rgb(12, 9, 4);
     font-size: 14px;
     font-style: helvetica;
 }
 p.yellow { 
-	color: yellow;
+	color: rgb(12, 9, 4);
     font-size: 14px;
     font-style: helvetica;
 }
 h1{ 
-	color: blue;
-    font-size: 16px;
+	color: red;
+    font-size: 22px;
 }
 h2{
-    color: blueviolet;
-    font-size: 16px;
+    color: red;
+    font-size: 20px;
 }
 ul {list-style-type: circle;
     list-style-position: inside;
