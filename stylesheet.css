@@ -1,49 +1,70 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Truculenta:wght@300&display=swap');
-</style>
 html {
     color: black;
     font-size: 14px;
 }
 
 p.purple { 
-	color: rgb(12, 9, 4);
+    color: rgb(12, 9, 4);
     font-size: 14px;
-    font-style: helvetica;
 }
 p.orange { 
-	color: rgb(12, 9, 4);
+    color: rgb(12, 9, 4);
     font-size: 18px;
-    font-style: helvetica;
 }
 p.yellow { 
-	color: rgb(12, 9, 4);
+    color: rgb(12, 9, 4);
     font-size: 14px;
-    font-style: helvetica;
 }
 h1{ 
-	color: red;
+    color: red;
     font-size: 22px;
 }
 h2{
     color: red;
     font-size: 20px;
 }
-ul {list-style-type: circle;
+ul {list-style-type: square;
     list-style-position: inside;
+    font-size: 14px;
 }
 #large-header{
     font-size: 22px;
-    font-style: oblique;
+    
+
 }
 a{
-    text-decoration: underline;
+    text-decoration: none;
+    color: red;
+    background-color: black;
 }
 a:hover{
     text-decoration: underline;
+    text-decoration-color: red;
     font-weight: bold;
 }
+a:link{
+    color:black;
+}
 #name{
-    color: red;
-    font-size: 30px;
-} 
+    font-size: 50px;
+    text-align: center;
+   
+}
+
+.button{
+  background-color: red;
+  color: black;  
+  text-decoration: none;
+  padding: 10px;
+  border: 3px solid black;
+  
+}
+.button;:hover{
+    background-color: red;
+}
+@media (prefers-color-scheme: dark){
+    html{
+        background-color: black;
+        color: white;
+    } 
+}
