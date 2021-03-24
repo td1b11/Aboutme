@@ -1,5 +1,4 @@
 html {
-    color: black;
     font-size: 14px;
 }
 
@@ -16,11 +15,10 @@ p.yellow {
     font-size: 18px;
 }
 h1{ 
-    color: #bb1122;
     font-size: 24px;
 }
 h2{
-    color: #bb1122;
+  
     font-size: 20px;
 }
 ul {list-style-type: square;
@@ -32,46 +30,13 @@ ul {list-style-type: square;
     
 
 }
-a{
-    text-decoration: none;
-    color: black;
-    background-color:#bb1122;
-}
+
 a:hover{
-    text-decoration-color: #bb1122;
     font-weight: bold;
 }
-a:link{
-    color:black;
-}
+
 #name{
     font-size: 40px;
     text-align: center;
    
 }
-
-.button{
-  color: #bb1122;  
-  text-decoration: none;
-  padding: 1px;
-  border: 1px solid black;
-  
-}
-.button:hover{
-    background-color: #bb1122;
-}
-@media (prefers-color-scheme: dark){
-    html{
-        background-color: black;
-        color: white;
-    } 
-}
-
-.sr-only {
-    position:absolute;
-    left:-10000px;
-    top:auto;
-    width:1px;
-    height:1px;
-    overflow:hidden;
-  }
