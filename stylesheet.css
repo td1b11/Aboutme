@@ -5,7 +5,7 @@ html {
 
 p.purple { 
     color: rgb(12, 9, 4);
-    font-size: 14px;
+    font-size: 18px;
 }
 p.orange { 
     color: rgb(12, 9, 4);
@@ -13,54 +13,52 @@ p.orange {
 }
 p.yellow { 
     color: rgb(12, 9, 4);
-    font-size: 14px;
+    font-size: 18px;
 }
 h1{ 
-    color: red;
-    font-size: 22px;
+    color: #bb1122;
+    font-size: 24px;
 }
 h2{
-    color: red;
+    color: #bb1122;
     font-size: 20px;
 }
 ul {list-style-type: square;
     list-style-position: inside;
-    font-size: 14px;
+    font-size: 18px;
 }
 #large-header{
-    font-size: 22px;
+    font-size: 30px;
     
 
 }
 a{
     text-decoration: none;
-    color: red;
-    background-color: black;
+    color: black;
+    background-color:#bb1122;
 }
 a:hover{
-    text-decoration: underline;
-    text-decoration-color: red;
+    text-decoration-color: #bb1122;
     font-weight: bold;
 }
 a:link{
     color:black;
 }
 #name{
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
    
 }
 
 .button{
-  background-color: red;
-  color: black;  
+  color: #bb1122;  
   text-decoration: none;
-  padding: 10px;
-  border: 3px solid black;
+  padding: 1px;
+  border: 1px solid black;
   
 }
-.button;:hover{
-    background-color: red;
+.button:hover{
+    background-color: #bb1122;
 }
 @media (prefers-color-scheme: dark){
     html{
@@ -68,3 +66,12 @@ a:link{
         color: white;
     } 
 }
+
+.sr-only {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+  }
