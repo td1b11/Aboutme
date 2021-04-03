@@ -7,18 +7,41 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="https://bootstrapbuildspace.sfo2.cdn.digitaloceanspaces.com//dYFtoKsIOWUd/nYwpxVGPKfnm/bootstrap.css">
 		<link rel="stylesheet" href="stylesheet.css">
+		<script language="JavaScript" src="js/scripts.js"></script>
 	</head>
 	<body>
 		
 
 	<main>
-
+		
 		
 		<div class="mx-auto" style="width: 100px;">				
 <h1 id="name"> Tracy Demarest </h1>
 
 		</div>
-</section>
+	
+	<h1>Welcome to my website,
+
+		<div class="form-group">
+			<label for="name">Type your name here</label>
+			<input type="text" id="name" class="form-control">
+		</div>
+	</h1>
+	<p>Click the button.</p>
+
+		<button onclick="myFunction()">Try it</button>
+		
+		<p id="color change"></p>
+		
+		<script>
+		function myFunction() {
+		  var str = "Welcome to my webpage,";
+		  var result = str.fontcolor("blue");
+		  document.getElementById("democolor change").innerHTML = result;
+		}
+		</script>
+	
+	</section>
     <hr>
     
     <section>

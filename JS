@@ -1,0 +1,5 @@
+$(document).ready(function(){
+    $("#name").keypress(function(){
+        $("h1").text("Welcome to my website, "+$("$name").val());
+    });
+});
