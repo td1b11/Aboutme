@@ -9,6 +9,14 @@ $(document).ready(function(){
 });
 
 
+$(document).ready(function(){
+    $("button").click(function(){
+        var food = $.get("https://foodish-api.herokuapp.com/");
 
+        food.done(function(response){
+            $("#food").attr("src", response.message);
+        });
+    })
+})
 
 
