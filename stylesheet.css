@@ -16,6 +16,7 @@ p.yellow {
 }
 h1{ 
     font-size: 24px;
+    text-align: center;
 }
 h2{
   
@@ -40,3 +41,7 @@ a:hover{
     text-align: center;
    
 }
+#letseat{
+    color: red
+}
+
