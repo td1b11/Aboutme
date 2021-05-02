@@ -1,5 +1,5 @@
 html {
-    font-size: 14px;
+    font-size: 18px;
 }
 
 p.purple { 
@@ -45,3 +45,43 @@ a:hover{
     color: red
 }
 
+li {
+    display: inline;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgray;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
