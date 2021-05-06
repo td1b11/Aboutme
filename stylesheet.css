@@ -85,3 +85,11 @@ li {
     padding: 14px 16px;
     text-decoration: none;
   }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  
