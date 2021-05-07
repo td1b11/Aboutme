@@ -61,8 +61,8 @@ li {
 
   div {
     padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-bottom: 30px;
     padding-left: 80px;
   }
 
@@ -90,6 +90,12 @@ li {
     float: left;
     width: 33.33%;
     padding: 5px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   
